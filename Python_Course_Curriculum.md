@@ -23,6 +23,7 @@ Goal: Become an industry-level Python engineer with strong software engineering 
    - Pass exam → Next lesson
    - Fail exam → Retake lesson
 6. Goal is understanding, not memorization.
+7. After certain Lessons need to complete a project in order to progress further
 
 ---
 
